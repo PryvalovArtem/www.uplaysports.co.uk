@@ -1,0 +1,1596 @@
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0oA.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0oA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0ow.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0pg.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0pg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX8.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXo.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXw.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXo.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXw.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX8.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXo.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXw.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX8.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXo.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXw.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX8.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXo.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXw.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXo.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXw.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX8.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXo.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXw.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX8.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXo.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXw.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX8.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXo.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXw.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXw.woff
+Content Type: font/woff
+
+Uri: https://kit.fontawesome.com/1fac1b017a.js
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\1fac1b017a.js
+Content Type: text/javascript
+
+Uri: https://www.buzzsprout.com/1805795/8737150-exploring-physically-active-learning-with-dr-andy-daly-smith.js?container_id=buzzsprout-player-8737150&player=small
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\1805795\8737150-exploring-physically-active-learning-with-dr-andy-daly-smith.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LfYH9MUAAAAAIk3uGJcDd8pbw4pV1LeJCok9QMm&ver=4.20.4
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-139849752-1
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.staging5.uplaysports.co.uk/wp-content/uploads/2020/01/Select-Main-Homepage-Mix-1.m4v
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\01\Select-Main-Homepage-Mix-1.m4v
+Content Type: video/x-m4v
+
+Uri: https://www.uplaysports.co.uk/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/2020/11/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\2020\11\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/2020/11/17/launching-physically-active-learning-maths-on-the-move/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\2020\11\17\launching-physically-active-learning-maths-on-the-move\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/2020/11/17/launching-physically-active-learning-maths-on-the-move/feed/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\2020\11\17\launching-physically-active-learning-maths-on-the-move\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.uplaysports.co.uk/2020/11/19/keeping-active-during-lockdown-2-0/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\2020\11\19\keeping-active-during-lockdown-2-0\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/2020/11/19/keeping-active-during-lockdown-2-0/feed/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\2020\11\19\keeping-active-during-lockdown-2-0\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.uplaysports.co.uk/2021/06/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\2021\06\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/2021/06/08/it-sounds-good-but-does-physically-active-learning-actually-work/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\2021\06\08\it-sounds-good-but-does-physically-active-learning-actually-work\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/2021/06/08/it-sounds-good-but-does-physically-active-learning-actually-work/feed/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\2021\06\08\it-sounds-good-but-does-physically-active-learning-actually-work\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.uplaysports.co.uk/2021/06/21/8-reasons-why/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\2021\06\21\8-reasons-why\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/2021/06/21/8-reasons-why/feed/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\2021\06\21\8-reasons-why\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.uplaysports.co.uk/2021/06/23/motm-podcast/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\2021\06\23\motm-podcast\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/2021/06/23/motm-podcast/feed/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\2021\06\23\motm-podcast\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.uplaysports.co.uk/about-us/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\about-us\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/author/uplay-sports/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\author\uplay-sports\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/author/uplay-sports/feed/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\author\uplay-sports\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.uplaysports.co.uk/blog/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\blog\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/book-now/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\book-now\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/category/uncategorized/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/category/uncategorized/feed/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.uplaysports.co.uk/comments/feed/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.uplaysports.co.uk/contact-schools/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\contact-schools\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/contact/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/faq/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\faq\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/feed/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.uplaysports.co.uk/jobs/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\jobs\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/maths-on-the-move/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\maths-on-the-move\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/multi-sports-in-schools/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\multi-sports-in-schools\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/netball-in-schools/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\netball-in-schools\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/physically-active-learning/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\physically-active-learning\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/policies-procedures/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\policies-procedures\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/privacy-policy/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/sport-in-schools/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\sport-in-schools\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/tennis-in-schools/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\tennis-in-schools\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/termsandconditions/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\termsandconditions\index.htm
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/wp-admin/css/forms.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-admin/css/l10n.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-admin/css/login.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://www.uplaysports.co.uk/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uplaysports.co.uk/wp-admin/js/password-strength-meter.min.js?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-admin/js/user-profile.min.js?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1100/et-divi-dynamic-1100-late.css?ver=1708447345
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1100\et-divi-dynamic-1100-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1139/et-core-unified-deferred-1139.min.css?ver=1708544280
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1139\et-core-unified-deferred-1139.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1139/et-divi-dynamic-1139-late.css?ver=1708544280
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1139\et-divi-dynamic-1139-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1309/et-core-unified-deferred-1309.min.css?ver=1708544339
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1309\et-core-unified-deferred-1309.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1309/et-divi-dynamic-1309-late.css?ver=1708544339
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1309\et-divi-dynamic-1309-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1315/et-core-unified-deferred-1315.min.css?ver=1708544536
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1315\et-core-unified-deferred-1315.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1315/et-divi-dynamic-1315-late.css?ver=1708544536
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1315\et-divi-dynamic-1315-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1323/et-divi-dynamic-1323-late.css?ver=1708544604
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1323\et-divi-dynamic-1323-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1338/et-core-unified-deferred-1338.min.css?ver=1708544571
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1338\et-core-unified-deferred-1338.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1338/et-divi-dynamic-1338-late.css?ver=1708544571
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1338\et-divi-dynamic-1338-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1343/et-divi-dynamic-1343-late.css?ver=1708491488
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1343\et-divi-dynamic-1343-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1487/et-core-unified-deferred-1487.min.css?ver=1708544065
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1487\et-core-unified-deferred-1487.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1487/et-divi-dynamic-1487-late.css?ver=1708544065
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1487\et-divi-dynamic-1487-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/150/et-divi-dynamic-150-late.css?ver=1708451728
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\150\et-divi-dynamic-150-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1765/et-divi-dynamic-1765-late.css?ver=1708462453
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1765\et-divi-dynamic-1765-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1882/et-core-unified-deferred-1882.min.css?ver=1708544322
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1882\et-core-unified-deferred-1882.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/1882/et-divi-dynamic-1882-late.css?ver=1708544322
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\1882\et-divi-dynamic-1882-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/2217/et-divi-dynamic-2217-late.css?ver=1708448449
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\2217\et-divi-dynamic-2217-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/2237/et-divi-dynamic-2237-late.css?ver=1708444577
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\2237\et-divi-dynamic-2237-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/2257/et-core-unified-deferred-2257.min.css?ver=1708452468
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\2257\et-core-unified-deferred-2257.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/2257/et-divi-dynamic-2257-late.css?ver=1708452468
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\2257\et-divi-dynamic-2257-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/519/et-divi-dynamic-519-late.css?ver=1708447783
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\519\et-divi-dynamic-519-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/527/et-divi-dynamic-527-late.css?ver=1708475885
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\527\et-divi-dynamic-527-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/534/et-divi-dynamic-534-late.css?ver=1708475883
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\534\et-divi-dynamic-534-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/557/et-divi-dynamic-557-late.css?ver=1708448177
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\557\et-divi-dynamic-557-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/802/et-divi-dynamic-802-late.css?ver=1708475893
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\802\et-divi-dynamic-802-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/9/et-core-unified-deferred-9.min.css?ver=1708441582
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\9\et-core-unified-deferred-9.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/9/et-divi-dynamic-9-late.css?ver=1708441582
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\9\et-divi-dynamic-9-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/9/et-divi-dynamic-9.css?ver=1708441582
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\9\et-divi-dynamic-9.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/954/et-core-unified-deferred-954.min.css?ver=1708441794
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\954\et-core-unified-deferred-954.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/954/et-divi-dynamic-954-late.css?ver=1708441794
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\954\et-divi-dynamic-954-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/archive/et-divi-dynamic-late.css?ver=1708477583
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\archive\et-divi-dynamic-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/author/3/et-divi-dynamic-late.css?ver=1708539405
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\author\3\et-divi-dynamic-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/global/et-divi-customizer-global.min.css?ver=1708441799
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\global\et-divi-customizer-global.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/home/et-divi-dynamic-late.css?ver=1708459555
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\home\et-divi-dynamic-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/et-cache/taxonomy/category/1/et-divi-dynamic-late.css?ver=1708543875
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\et-cache\taxonomy\category\1\et-divi-dynamic-late.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/plugins/divi-plus/includes/assets/css/swiper/swiper.min.css?ver=6.4.5
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\plugins\divi-plus\includes\assets\css\swiper\swiper.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/plugins/divi-plus/includes/assets/js/swiper/swiper.min.js?ver=6.4.5
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\plugins\divi-plus\includes\assets\js\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-content/plugins/divi-plus/includes/modules/LogoSlider/style.min.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\plugins\divi-plus\includes\modules\LogoSlider\style.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/plugins/divi-plus/scripts/frontend-bundle.min.js?ver=1.9.10
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\plugins\divi-plus\scripts\frontend-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-content/plugins/divi-plus/styles/diplSwiper.min.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\plugins\divi-plus\styles\diplSwiper.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/plugins/divi-plus/styles/style.min.css?ver=1.9.10
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\plugins\divi-plus\styles\style.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/plugins/tablepress/css/build/default.css?ver=2.1.1
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\plugins\tablepress\css\build\default.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-content/plugins/tablepress/css/build/tablepress.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\plugins\tablepress\css\build\tablepress.woff
+Content Type: font/woff
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\fontawesome\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot?
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\modules\all\modules-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.svg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\modules\all\modules.woff
+Content Type: font/woff
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/modules/social/modules.eot
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\modules\social\modules.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/modules/social/modules.eot?
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\modules\social\modules-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/modules/social/modules.svg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\modules\social\modules.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/modules/social/modules.ttf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\modules\social\modules.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/fonts/modules/social/modules.woff
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\fonts\modules\social\modules.woff
+Content Type: font/woff
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/js/common.js?ver=4.20.4
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\js\common.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js?ver=4.20.4
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\js\es6-promise.auto.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/core/admin/js/recaptcha.js?ver=4.20.4
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\core\admin\js\recaptcha.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.20.4
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\includes\builder\feature\dynamic-assets\assets\js\jquery.fitvids.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.20.4
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\includes\builder\feature\dynamic-assets\assets\js\jquery.mobile.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/magnific-popup.js?ver=4.20.4
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\includes\builder\feature\dynamic-assets\assets\js\magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/includes/builder/styles/images/preloader.gif
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\includes\builder\styles\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.uplaysports.co.uk/wp-content/themes/Divi/js/scripts.min.js?ver=4.20.4
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\themes\Divi\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/071-uPlaySports-1280x854.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\071-uPlaySports-1280x854.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/071-uPlaySports-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\071-uPlaySports-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/071-uPlaySports-980x654.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\071-uPlaySports-980x654.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/071-uPlaySports.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\071-uPlaySports.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/Adult-Tennis-v6-480x480.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\Adult-Tennis-v6-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/Adult-Tennis-v6.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\Adult-Tennis-v6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/Mini-red-beginner-1280x854.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\Mini-red-beginner-1280x854.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/Mini-red-beginner-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\Mini-red-beginner-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/Mini-red-beginner-980x654.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\Mini-red-beginner-980x654.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/Mini-red-beginner.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\Mini-red-beginner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/Netball-v3-480x480.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\Netball-v3-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/Netball-v3.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\Netball-v3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/schools-v2-480x480.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\schools-v2-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/schools-v2.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\schools-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/testimonial-bg.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\testimonial-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/uPlay-Logo.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\uPlay-Logo.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/uplay-tennis-v2-480x480.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\uplay-tennis-v2-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2019/12/uplay-tennis-v2.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2019\12\uplay-tennis-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/01/Junior-Netball-480x374.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\01\Junior-Netball-480x374.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/01/Junior-Netball.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\01\Junior-Netball.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/01/Junior-Tennis-Header-Image.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\01\Junior-Tennis-Header-Image.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/01/Netball-Camps-2-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\01\Netball-Camps-2-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/01/Netball-Camps-2.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\01\Netball-Camps-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/01/Netball-header.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\01\Netball-header.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/01/school-netball-480x374.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\01\school-netball-480x374.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/01/school-netball.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\01\school-netball.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/01/Schools-Tennis-300x234.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\01\Schools-Tennis-300x234.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/01/Schools-Tennis.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\01\Schools-Tennis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/01/Select-Tennis-Homepage-No-Interviews-1.m4v
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\01\Select-Tennis-Homepage-No-Interviews-1.m4v
+Content Type: video/x-m4v
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/02/netball-post-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\02\netball-post-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/02/netball-post.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\02\netball-post.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/07/394-uPlaySports-1280x854.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\07\394-uPlaySports-1280x854.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/07/394-uPlaySports-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\07\394-uPlaySports-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/07/394-uPlaySports-980x654.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\07\394-uPlaySports-980x654.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/07/394-uPlaySports.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\07\394-uPlaySports.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/036-uPlaySports-CROPPED-480x374.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\036-uPlaySports-CROPPED-480x374.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/036-uPlaySports-CROPPED.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\036-uPlaySports-CROPPED.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/059-uPlaySports-1280x854.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\059-uPlaySports-1280x854.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/059-uPlaySports-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\059-uPlaySports-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/059-uPlaySports-980x654.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\059-uPlaySports-980x654.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/059-uPlaySports.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\059-uPlaySports.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/068-uPlaySports-1280x854.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\068-uPlaySports-1280x854.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/068-uPlaySports-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\068-uPlaySports-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/068-uPlaySports-980x654.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\068-uPlaySports-980x654.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/068-uPlaySports.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\068-uPlaySports.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/081-uPlaySports-1280x854.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\081-uPlaySports-1280x854.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/081-uPlaySports-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\081-uPlaySports-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/081-uPlaySports-980x654.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\081-uPlaySports-980x654.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/081-uPlaySports.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\081-uPlaySports.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/112a-uPlaySports.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\112a-uPlaySports.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/197-uPlaySports-1280x854.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\197-uPlaySports-1280x854.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/197-uPlaySports-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\197-uPlaySports-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/197-uPlaySports-980x654.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\197-uPlaySports-980x654.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/197-uPlaySports.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\197-uPlaySports.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/338-uPlaySports-1280x854.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\338-uPlaySports-1280x854.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/338-uPlaySports-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\338-uPlaySports-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/338-uPlaySports-980x654.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\338-uPlaySports-980x654.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/338-uPlaySports.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\338-uPlaySports.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Active-lessons-can-boost-childrens-learning-and-health.pdf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Active-lessons-can-boost-childrens-learning-and-health.pdf
+Content Type: application/pdf
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Class-Total-Scores-2-1280x815.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Class-Total-Scores-2-1280x815.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Class-Total-Scores-2-480x306.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Class-Total-Scores-2-480x306.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Class-Total-Scores-2-980x624.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Class-Total-Scores-2-980x624.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Class-Total-Scores-2.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Class-Total-Scores-2.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/CogPerf-03-480x479.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\CogPerf-03-480x479.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/CogPerf-03.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\CogPerf-03.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Example-Report-Data.pdf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Example-Report-Data.pdf
+Content Type: application/pdf
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/IMG_0511-1280x960.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\IMG_0511-1280x960.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/IMG_0511-480x360.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\IMG_0511-480x360.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/IMG_0511-980x735.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\IMG_0511-980x735.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/IMG_0511-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\IMG_0511-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/IMG_0513-1280x960.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\IMG_0513-1280x960.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/IMG_0513-480x360.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\IMG_0513-480x360.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/IMG_0513-980x735.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\IMG_0513-980x735.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/IMG_0513-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\IMG_0513-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/IMG_20200721_112910-1280x720.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\IMG_20200721_112910-1280x720.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/IMG_20200721_112910-480x270.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\IMG_20200721_112910-480x270.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/IMG_20200721_112910-980x551.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\IMG_20200721_112910-980x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/IMG_20200721_112910-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\IMG_20200721_112910-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Kids-who-get-moving-may-also-get-better-grades-Business-Insider.pdf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Kids-who-get-moving-may-also-get-better-grades-Business-Insider.pdf
+Content Type: application/pdf
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/LearnEnv-03-480x479.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\LearnEnv-03-480x479.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/LearnEnv-03.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\LearnEnv-03.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/LLAKES-Working-Paper-67_0.pdf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\LLAKES-Working-Paper-67_0.pdf
+Content Type: application/pdf
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/maths-on-the-move2-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\maths-on-the-move2-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/maths-on-the-move2-980x654.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\maths-on-the-move2-980x654.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/maths-on-the-move2.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\maths-on-the-move2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/MOTM-Logo-SML-480x985.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\MOTM-Logo-SML-480x985.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/MOTM-Logo-SML.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\MOTM-Logo-SML.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Olympic-Game-3-1280x960.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Olympic-Game-3-1280x960.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Olympic-Game-3-480x360.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Olympic-Game-3-480x360.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Olympic-Game-3-980x735.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Olympic-Game-3-980x735.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Olympic-Game-3.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Olympic-Game-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/PurpRet-480x479.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\PurpRet-480x479.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/PurpRet.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\PurpRet.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Reccomended-activity-levels_FaceBook-1280x2445.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Reccomended-activity-levels_FaceBook-1280x2445.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Reccomended-activity-levels_FaceBook-480x917.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Reccomended-activity-levels_FaceBook-480x917.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Reccomended-activity-levels_FaceBook-980x1872.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Reccomended-activity-levels_FaceBook-980x1872.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/11/Reccomended-activity-levels_FaceBook.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\11\Reccomended-activity-levels_FaceBook.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/12/AspireSportsMOTM_uPlaySportsPartner_HD720.mp4
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\12\AspireSportsMOTM_uPlaySportsPartner_HD720.mp4
+Content Type: video/mp4
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2020/12/Screenshot-2020-12-03-at-10.24.26.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2020\12\Screenshot-2020-12-03-at-10.24.26.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/06/8-REASONS-PAL-MOTM-1280x905.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\06\8-REASONS-PAL-MOTM-1280x905.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/06/8-REASONS-PAL-MOTM-480x339.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\06\8-REASONS-PAL-MOTM-480x339.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/06/8-REASONS-PAL-MOTM-980x693.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\06\8-REASONS-PAL-MOTM-980x693.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/06/8-REASONS-PAL-MOTM.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\06\8-REASONS-PAL-MOTM.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/06/MOTM-Analysis-2019-20-uPlay.pdf
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\06\MOTM-Analysis-2019-20-uPlay.pdf
+Content Type: application/pdf
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/06/MOTM-SOCIAL-JUNE20212-1280x721.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\06\MOTM-SOCIAL-JUNE20212-1280x721.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/06/MOTM-SOCIAL-JUNE20212-480x270.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\06\MOTM-SOCIAL-JUNE20212-480x270.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/06/MOTM-SOCIAL-JUNE20212-980x552.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\06\MOTM-SOCIAL-JUNE20212-980x552.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/06/MOTM-SOCIAL-JUNE20212.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\06\MOTM-SOCIAL-JUNE20212.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/07/cropped-favicon-180x180.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\07\cropped-favicon-180x180.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/07/cropped-favicon-192x192.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\07\cropped-favicon-192x192.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/07/cropped-favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\07\cropped-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/07/cropped-favicon-480x480.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\07\cropped-favicon-480x480.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2021/07/cropped-favicon.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2021\07\cropped-favicon.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/02/341-uPlaySports-1280x854.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\02\341-uPlaySports-1280x854.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/02/341-uPlaySports-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\02\341-uPlaySports-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/02/341-uPlaySports-980x654.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\02\341-uPlaySports-980x654.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/02/341-uPlaySports.jpg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\02\341-uPlaySports.jpg
+Content Type: image/jpeg
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/02/MS-logo-480x96.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\02\MS-logo-480x96.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/02/MS-logo.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\02\MS-logo.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/02/Netball-Logo-480x96.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\02\Netball-Logo-480x96.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/02/Netball-Logo.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\02\Netball-Logo.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/02/Tennis-Logo-480x96.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\02\Tennis-Logo-480x96.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/02/Tennis-Logo.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\02\Tennis-Logo.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/02/Venues-Logo-480x96.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\02\Venues-Logo-480x96.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/02/Venues-Logo.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\02\Venues-Logo.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/03/ACE.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\03\ACE.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-content/uploads/2023/03/JLM.png
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-content\uploads\2023\03\JLM.png
+Content Type: image/png
+
+Uri: https://www.uplaysports.co.uk/wp-includes/css/buttons.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-includes/css/dashicons.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-includes/css/dist/block-library/style.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uplaysports.co.uk/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/comment-reply.min.js?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.3
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\mediaelement\mediaelement-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\mediaelement\wp-mediaelement.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/wp-util.min.js?ver=6.2
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://www.uplaysports.co.uk/wp-json/
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2F2020%2F11%2F17%2Flaunching-physically-active-learning-maths-on-the-move%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2F2020%2F11%2F17%2Flaunching-physically-active-learning-maths-on-the-move%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2F2020%2F11%2F19%2Fkeeping-active-during-lockdown-2-0%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2F2020%2F11%2F19%2Fkeeping-active-during-lockdown-2-0%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2F2021%2F06%2F08%2Fit-sounds-good-but-does-physically-active-learning-actually-work%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2F2021%2F06%2F08%2Fit-sounds-good-but-does-physically-active-learning-actually-work%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2F2021%2F06%2F21%2F8-reasons-why%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2F2021%2F06%2F21%2F8-reasons-why%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2F2021%2F06%2F23%2Fmotm-podcast%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2F2021%2F06%2F23%2Fmotm-podcast%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fbook-now%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fbook-now%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fcontact-schools%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fcontact-schools%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Ffaq%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Ffaq%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fjobs%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fjobs%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fmaths-on-the-move%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fmaths-on-the-move%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fmulti-sports-in-schools%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fmulti-sports-in-schools%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fnetball-in-schools%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fnetball-in-schools%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fphysically-active-learning%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fphysically-active-learning%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fpolicies-procedures%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fpolicies-procedures%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fprivacy-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fsport-in-schools%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Fsport-in-schools%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Ftennis-in-schools%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Ftennis-in-schools%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Ftermsandconditions%2F
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.uplaysports.co.uk%2Ftermsandconditions%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/1100
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\1100
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/1139
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\1139
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/1309
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\1309
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/1315
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\1315
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/1323
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\1323
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/1338
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\1338
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/1343
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\1343
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/150
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\150
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/1882
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\1882
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/519
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\519
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/527
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\527
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/534
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\534
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/557
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\557
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/802
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\802
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/pages/954
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\pages\954
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/posts/1487
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\posts\1487
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/posts/1765
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\posts\1765
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/posts/2217
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\posts\2217
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/posts/2237
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\posts\2237
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/posts/2257
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\posts\2257
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-json/wp/v2/users/3
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-json\wp\v2\users\3
+Content Type: application/json
+
+Uri: https://www.uplaysports.co.uk/wp-login.php
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-login.php.html
+Content Type: text/html
+
+Uri: https://www.uplaysports.co.uk/wp-login.php?action=lostpassword
+File Name: C:\Downloaded Web Sites\www.uplaysports.co.uk\wp-login.php-1.html
+Content Type: text/html
+
